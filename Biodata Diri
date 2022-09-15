@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Biodata Diri</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center><h1> Biodata Diri</h1></center>
+    <center><h1>Annes Maria Pangidoan</h1></center>
+    <b><hr /></b>
+    <b><h3>&#9829; Pengenalan Diri</h3></b>
+    <p>Perkenalkan nama saya adalah Annes Maria Pangidoan. Teman - teman saya sering memanggil saya Nes. Lahir di Bandung 24 Juli 2002. Saya merupakan anak ke-3 dari 3 bersaudara
+        saya berasal dari kota Bandung, namun untuk sekarang saya tinggal di kota jimbaran. Saat ini status pekerjaan saya adalah seorang mahahsiswi dari sebuah universitas di Bali. </p>
+     <b><h3>&#9829; Hobi</h3></b>
+     <p>Saya memiliki beberapa hobi yang diantaranya:</p>
+     <ul>
+        <li>Bermain game</li>
+        <li>Nonton film</li>
+        <li>Baca Komik/Novel</li>
+        <li>berenang</li>
+        <li>dan beberapa olah raga lainnya</li>
+     </ul>
+     <b><h3>&#9829; Makanan dan Minuman Kesukaan</h3></b>
+     <p>Karena saya berasal dari bandung sayan memiliki beberapa makanan daerah kesukaan saya, seperti seblak, cimol, cilor, dan lain sebagainya. Namun saya juga menyukain beberapa makanan dari luar daerah asal saya juga seperti babi guling, ramen, udon, dan lain sebagainya.<br />Untuk minumannya saya sanagat menyukai kopi khususnya es kopi susu gula aren!</p>
+     <b><h3>&#9829; Riwayat Pendidikan</h3></b>
+     <ol>
+        <li>TK: Santa Tereshia Cimahi</li>
+        <li>SD: SDN Lagadar 5</li>
+        <li>SMP:SMPN 1 MARGAASIH</li>
+        <li>SMA:SMAK GAMALIEL</li>
+        <li>UNI:Universitas Udayana</li>
+     </ol>
+<center><IMG SRC = "profil pict.jpg" width = "300px alt="profil pict" ></center>
+<p>You can find me here: </p>
+<a target="_blank" href ="https://www.instagram.com/nes.siman/">instagram</a>
+</body>
+</html> 
